@@ -13,5 +13,6 @@ class Aula20{
         foreach(int x in n){
             Console.WriteLine(x);
         }
+        
     }
 }
